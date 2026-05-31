@@ -202,12 +202,16 @@ Assets/
 
 ## Setup (One-Time)
 
+> **⚠ Important: Open the scene `NewGameSceneForTesting` — NOT `SampleScene`.**
+> All setup steps and gameplay must be run in **`NewGameSceneForTesting`**.
+
 ```
-1. Tools → Platformer2D A2 → Create Tags and Layers
-2. Tools → Platformer2D A2 → Fix Background Tile Imports
-3. Tools → Cartography → Build Platform Level (Auto-detect)
-4. Attach scripts to GameObjects (see table below)
-5. Press Play ▶
+1. Open:  File → Open Scene → Assets/Scenes/NewGameSceneForTesting
+2. Tools → Platformer2D A2 → Create Tags and Layers
+3. Tools → Platformer2D A2 → Fix Background Tile Imports
+4. Tools → Cartography → Build Platform Level (Auto-detect)
+5. Attach scripts to GameObjects (see table below)
+6. Press Play ▶
 ```
 
 ### Script Attachment
