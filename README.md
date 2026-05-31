@@ -1,10 +1,24 @@
 # PuKu's Adventure 🗺️
 
+## Watch the Game
+
+[![PuKu's Adventure — Gameplay Demo](https://img.youtube.com/vi/_BRL_KCwcVw/maxresdefault.jpg)](https://youtu.be/_BRL_KCwcVw)
+
+▶ [https://youtu.be/_BRL_KCwcVw](https://youtu.be/_BRL_KCwcVw)
+
+---
+
 > **Assignment 2** — 2D Platformer Development
 > **Course:** COMP 6970 Game Development | Summer 2026
 > **Developer:** Jahidul Arafat — PhD Student, CSSE, Auburn University
 > **Fellowship:** Presidential & Woltosz Graduate Research Fellow
 > **Industry:** Former L3 Senior Solution Architect (MLOps), Oracle (Singapore)
+
+---
+
+## Summary
+
+**PuKu's Adventure** extends the Platformer2D skeleton into a fully-featured cartography-themed adventure. Built on Unity 6 with the Kenney Cartography Pack, the game features a 7-zone world spanning Harbor, Settlement, Forest, Ruins, Desert, Mountain, and Castle — each at a different elevation connected by zigzag stepping-stone platforms. New features beyond the base skeleton include: a score system with bridge bonuses and hazard penalties, three save checkpoints with cliff-fall detection, coyote time, jump buffering, enemy stomp kills, hazard objects (cactus, bush, campfire, lake) with stun cooldowns, an AI-assisted Auto Jump demo mode, animated dark-green start screen overlay, persistent OnGUI tooltips on every world object, comprehensive debug console logging, and a smooth camera with look-ahead follow. All systems communicate through a central event bus with zero direct script references.
 
 ---
 
@@ -238,4 +252,4 @@ Assets/
 
 ---
 
-*PuKu's Adventure — COMP 6910 Game Development, Auburn University, Summer 2026*
+*PuKu's Adventure — COMP 6970 Game Development, Auburn University, Summer 2026*
